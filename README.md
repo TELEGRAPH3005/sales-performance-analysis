@@ -1,6 +1,15 @@
 # sales-performance-analysis
 Power BI Sales Performance and Profitability Analysis
 Project Overview
+## Dashboard Preview
+
+### Sales Overview
+
+![Sales Overview](SaleOverview.png)
+
+### Regional Profitability Analysis
+
+![Profitability Analysis](Profitability.png)
 
 This project examines 200 sales transactions using Microsoft Power BI to assess sales performance, regional trends, product category results, and estimated profitability. The objective is to uncover actionable business insights and support data-driven decision-making.
 
