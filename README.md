@@ -5,7 +5,7 @@ Project Overview
 
 ### Sales Overview
 
-![Sales Overview](Sale Overview.png)
+![Sales Overview](Sale_Overview.png)
 
 ### Regional Profitability Analysis
 
