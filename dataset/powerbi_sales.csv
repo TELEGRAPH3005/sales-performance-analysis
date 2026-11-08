@@ -5,11 +5,11 @@ Project Overview
 
 ### Sales Overview
 
-![Sales Overview](screenshots/sales-overview.png)
+![Sales Overview](../screenshots/sales-overview.png)
 
 ### Regional Profitability Analysis
 
-![Profitability Analysis](screenshots/profitability.png)
+![Profitability Analysis](../screenshots/profitability.png)
 
 This project examines 200 sales transactions using Microsoft Power BI to assess sales performance, regional trends, product category results, and estimated profitability. The objective is to uncover actionable business insights and support data-driven decision-making.
 
@@ -26,25 +26,29 @@ Tools and Technologies:
 - Order Completion Rate
 - Estimated Profit
 - Estimated Profit Margin
--Key Findings:
+
+Key Findings:
 - The West region generated the highest completed sales, totaling $8,972.34.
 - The Central region recorded the highest number of completed orders with 33 transactions.
 - Furniture produced the highest estimated profit at $13,504.80.
 - Office Supplies achieved the highest estimated profit margin at 50%.
 - Technology recorded the lowest estimated profit margin at 30%.
+
 Business Recommendations:
-- Analyze regional performance differences to identify opportunities for revenue growth and - market expansion.
+- Analyze regional performance differences to identify opportunities for revenue growth and market expansion.
 - Use monthly sales trends to improve inventory forecasting and resource allocation.
 - Review Technology category pricing, costs, and discount strategies to improve profitability.
 - Focus on high-margin product categories while maintaining healthy sales volume across all categories.
 - Identify and reduce unnecessary operating expenses without compromising product quality or customer satisfaction.
+
 Profitability Assumptions:
 Estimated profitability was calculated using category-specific cost assumptions for analytical purposes:
 
-Category	  Estimated Cost (% of Sales)	Estimated Profit Margin
-Technology  |	  70%	                     | 30%
-Furniture	  |   65%                      | 35%
-Office Supplies 50%	                     | 50%
+Category | Estimated Cost (% of Sales) | Estimated Profit Margin
+--- | ---: | ---:
+Technology | 70% | 30%
+Furniture | 65% | 35%
+Office Supplies | 50% | 50%
 
 Note: These assumptions were created for demonstration purposes and do not represent actual company cost data. Therefore, all profit and margin calculations should be considered estimates.
 
