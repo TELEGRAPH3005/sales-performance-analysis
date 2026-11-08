@@ -9,7 +9,7 @@ Project Overview
 
 ### Regional Profitability Analysis
 
-![Profitability Analysis](../screenshots/profitability.png)
+![Profitability Analysis](screenshots/profitability.png)
 
 This project examines 200 sales transactions using Microsoft Power BI to assess sales performance, regional trends, product category results, and estimated profitability. The objective is to uncover actionable business insights and support data-driven decision-making.
 
