@@ -34,12 +34,17 @@ Key Findings:
 - Office Supplies achieved the highest estimated profit margin at 50%.
 - Technology recorded the lowest estimated profit margin at 30%.
 
-Business Recommendations:
-- Analyze regional performance differences to identify opportunities for revenue growth and market expansion.
-- Use monthly sales trends to improve inventory forecasting and resource allocation.
-- Review Technology category pricing, costs, and discount strategies to improve profitability.
-- Focus on high-margin product categories while maintaining healthy sales volume across all categories.
-- Identify and reduce unnecessary operating expenses without compromising product quality or customer satisfaction.
+Key Business Insights:
+- Regional performance: West generated the highest completed sales at $8,972.34.
+- Order completion: Only 56.5% of orders were completed, indicating an opportunity to investigate pending and returned orders.
+- Category profitability: Furniture generated the highest estimated profit at $13,504.80.
+- Profit margins: Office Supplies had the highest estimated profit margin at 50%, while Technology had the lowest at 30%.
+
+## Business Recommendations
+- **Improve order completion:** Investigate why 43.5% of orders were not completed. Separate pending orders from returned orders to identify potential causes.
+- **Protect Furniture profitability:** Continue monitoring Furniture sales and estimated profit because it contributes the most estimated profit.
+- **Review Technology margins:** Investigate product costs, pricing, and discounts to understand its lower estimated profit margin.
+- **Optimize regional performance:** Investigate why East and South have lower completed sales than West and Central.
 
 Profitability Assumptions:
 Estimated profitability was calculated using category-specific cost assumptions for analytical purposes:
